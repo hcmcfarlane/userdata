@@ -3,8 +3,11 @@ import "./Instructions.css";
 const Instructions = () => {
   return (
     <>
-      <h2>Task</h2>
-      <p>Recreate the website design!</p>
+      <h2>Goal</h2>
+      <p>
+        Recreate the website design! Do read the tasks and hints carefully
+        before you start.
+      </p>
       <img
         className="design-img"
         src="design.png"
@@ -20,7 +23,7 @@ const Instructions = () => {
         the button updates. Write a test that ensures this functionality works
         as expected.
       </p>
-      <h3>Discussion</h3>
+      <h3>Stretch goal – Discussion</h3>
       <p>
         What other tests would you write to test other components, such as the
         Card?
