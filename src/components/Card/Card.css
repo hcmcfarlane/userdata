@@ -1,0 +1,18 @@
+.card {
+  border: 6px solid black;
+  border-radius: 15px;
+  width: 200px;
+}
+
+.card-img {
+  border-radius: 6px;
+}
+
+.card-name {
+  margin-left: 20px;
+}
+
+.card-rank {
+  margin-left: 20px;
+  font-size: 1.2em;
+}
