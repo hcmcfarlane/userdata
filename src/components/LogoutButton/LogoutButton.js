@@ -1,10 +1,10 @@
 import { useState } from "react";
+import "./LogoutButton.css";
 
 const LogoutButton = () => {
   const [authStatus, setAuthStatus] = useState(true);
 
   const onClick = () => {
-    // console.log("You have logged out successfully");
     setAuthStatus(!authStatus);
   };
 
