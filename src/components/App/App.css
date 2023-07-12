@@ -1,0 +1,28 @@
+.App {
+  font-size: 16px;
+}
+
+main {
+  margin: auto;
+  width: 80%;
+  max-width: 1000px;
+}
+
+.App-header {
+  background-color: #5234ca;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 1.1em;
+  color: white;
+}
+
+.auth-status {
+  font-size: 95%;
+  text-align: right;
+  font-style: italic;
+}
