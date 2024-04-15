@@ -1,4 +1,6 @@
 .design-img {
   width: 100%;
   max-width: 850px;
+  border: 4px solid DarkSlateGray;
+  border-radius: 10px;
 }

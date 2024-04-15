@@ -10,8 +10,10 @@ function App() {
         <LogoutButton />
       </header>
       <main>
+        <h2 style={{ marginBottom: "2rem" }}>Add your code below here</h2>
+        {/* Insert your code below this line and above the Instructions */}
+
         <Instructions />
-        {/* Insert your code below this line */}
       </main>
     </div>
   );
