@@ -20,9 +20,3 @@ main {
   font-size: 1.1em;
   color: white;
 }
-
-.auth-status {
-  font-size: 95%;
-  text-align: right;
-  font-style: italic;
-}
